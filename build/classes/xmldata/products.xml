@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<products>
+    <product id="PRD001">
+        <name>Laptop MSI Leopard</name>
+        <brand>MSI</brand>
+        <price>28000</price>
+    </product>
+    <product id="PRD002">
+        <name>Laptop DELL Inspiron</name>
+        <brand>DELL</brand>
+        <price>15000</price>
+    </product>
+    <product id="PRD003">
+        <name>Laptop DELL Vostro</name>
+        <brand>DELL</brand>
+        <price>20000</price>
+    </product>
+</products>
